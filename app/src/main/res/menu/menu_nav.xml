@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_cari"
+        android:title="Cari"
+        android:icon="@drawable/ic_search"/>
+
+    <item
+        android:id="@+id/menu_favorit"
+        android:title="Favorit"
+        android:icon="@drawable/ic_favorite"/>
+
+    <item
+        android:id="@+id/menu_person"
+        android:title="Profil"
+        android:icon="@drawable/ic_person"/>
+
+</menu>
